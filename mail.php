@@ -91,8 +91,6 @@ else
 //      $headers .= 'Cc: akhiL1302@gmail.com' . "\r\n";
        if(mail($to,$subject,$message,$headers))
        {
-//echo $headers;
-//echo $to;
        echo "<br/> Your Mail has been succesfully sent.
              <br/> The issue will be addressed soon.
              <br/> Thank you";      
