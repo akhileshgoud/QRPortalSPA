@@ -22,7 +22,6 @@ $message .= $priority;
 $message .= '<br/> <br/> Description:  ';
 $message .= $_REQUEST["comments"];
 
-
 //uploading file
 
 $allowedExts = array("gif", "jpeg", "jpg", "png");
