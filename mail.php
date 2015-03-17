@@ -65,7 +65,8 @@ if ((($_FILES["file"]["type"] == "image/gif")
        {
        echo "<br/> Your Mail has been succesfully sent
              <br/> The issue will be addressed soon.
-             <br/> Thank you.";       }
+             <br/> Thank you.";     
+        }
        else
        {
        echo "Sending Failed";
