@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
 <title>QUERY REQUEST PORTAL</title>
